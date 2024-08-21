@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Famiglietti</h1>
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 <h3 align="center">Crafting Responsive and Dynamic Web Experiences</h3>
 
 - 📫 How to reach me **danielfamiglietti@hotmail.com**
