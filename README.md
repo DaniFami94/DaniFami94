@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Daniel Famiglietti</h1>
 <h3 align="center">Crafting Responsive and Dynamic Web Experiences</h3>
 
-##<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 - 👨‍💻 I am currently looking for my first job in tech.
 
