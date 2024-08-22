@@ -11,11 +11,13 @@
 
 - 🎓 Graduated as Higher Technician in Web Application Development
 
-- 🌱 I'm on track for learning more about React,Angular ,Docker and Laravel.
+- 🌱 I'm on track for learning more about React, Angular, Docker and Laravel.
 
 - ✍️ In my free time, I work on improving my coding skills through personal projects and side hustles.
 
 - 📫 You can shoot me an email at danielfamiglietti@hotmail.com! I'll try to respond as soon as I can.
+
+- 💥 Personal website [link](https://danielfamiglietti-portafolio.netlify.app/)
 
 - 📄 Please take a look at my [Resume](https://drive.google.com/file/d/1eMnqkBWPn8zzlU8JADG8Z1tPAi6QRTuE/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
