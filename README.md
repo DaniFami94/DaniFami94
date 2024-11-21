@@ -23,161 +23,69 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "25"><b> Skills</b>
 
-<!-- CSS en el estilo embebido -->
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px; /* Espaciado entre logos */
-  }
-  .logo-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px;
-    background-color: #f4f4f4; /* Fondo detrás de cada logo */
-    border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
-    transition: transform 0.3s, background-color 0.3s;
-  }
-  .logo-wrapper:hover {
-    transform: scale(1.2); /* Aumentar tamaño al pasar el mouse */
-    background-color: #e0e0e0; /* Cambiar color de fondo al hover */
-  }
-  .logo {
-    width: 40px;
-    height: 40px;
-  }
-  .logo-label {
-    margin-top: 8px;
-    font-size: 14px;
-    color: #333;
-    font-weight: bold;
-    text-align: center;
-  }
-</style>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<!-- Contenedor de los logos -->
-<div class="skills-container">
-  <div class="logo-wrapper">
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" class="logo"/>
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">Angular</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Angular</span>
   </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">Bootstrap</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Bootstrap</span>
   </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">CSS3</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">CSS3</span>
   </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">Docker</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Docker</span>
   </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" class="logo"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">Git</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Git</span>
   </div>
-  <div class="logo-wrapper">
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" class="logo"/>
-    </a>
-    <span class="logo-label">Gulp</span>
-  </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">HTML5</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">HTML5</span>
   </div>
-  <div class="logo-wrapper">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" class="logo"/>
-    </a>
-    <span class="logo-label">Java</span>
-  </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">JavaScript</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">JavaScript</span>
   </div>
-  <div class="logo-wrapper">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" class="logo"/>
-    </a>
-    <span class="logo-label">Linux</span>
-  </div>
-  <div class="logo-wrapper">
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" class="logo"/>
-    </a>
-    <span class="logo-label">MariaDB</span>
-  </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">MongoDB</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">MongoDB</span>
   </div>
-  <div class="logo-wrapper">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" class="logo"/>
-    </a>
-    <span class="logo-label">MySQL</span>
-  </div>
-  <div class="logo-wrapper">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" class="logo"/>
-    </a>
-    <span class="logo-label">Node.js</span>
-  </div>
-  <div class="logo-wrapper">
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" class="logo"/>
-    </a>
-    <span class="logo-label">Oracle</span>
-  </div>
-  <div class="logo-wrapper">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" class="logo"/>
-    </a>
-    <span class="logo-label">PHP</span>
-  </div>
-  <div class="logo-wrapper">
+
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s, background-color 0.3s;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" class="logo"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width: 40px; height: 40px;"/>
     </a>
-    <span class="logo-label">React</span>
+    <span style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">React</span>
   </div>
-  <div class="logo-wrapper">
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" class="logo"/>
-    </a>
-    <span class="logo-label">Sass</span>
-  </div>
-  <div class="logo-wrapper">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" class="logo"/>
-    </a>
-    <span class="logo-label">TypeScript</span>
-  </div>
-  <div class="logo-wrapper">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" class="logo"/>
-    </a>
-    <span class="logo-label">Python</span>
-  </div>
+
 </div>
