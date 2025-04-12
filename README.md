@@ -19,7 +19,7 @@
 
 - 💥 Personal Website [link](https://danielfamiglietti-portafolio.netlify.app/).
 
-- 📄 Please take a look at my [Resume](https://drive.google.com/file/d/1eMnqkBWPn8zzlU8JADG8Z1tPAi6QRTuE/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please take a look at my [Resume](https://drive.google.com/file/d/1bpvyFUyGQ-hi2RcdThXrapYeAjNXONn0/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "25"><b> Skills</b>
 
